@@ -4,6 +4,8 @@
 # @license		GNU General Public License version 2 or later; see LICENSE.txt
 ##
 
+AddDefaultCharset utf-8
+
 ##
 # READ THIS COMPLETELY IF YOU CHOOSE TO USE THIS FILE!
 #
